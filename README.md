@@ -4,7 +4,7 @@
 
 ## 👋 Introduction
 
-Hi there! I'm glad you've stopped by. I am a passionate developer and problem-solver dedicated to building impactful projects and collaborating with the open-source community. This space is where I showcase my work, experiments, and the technologies I'm currently exploring.
+Hi there! I'm glad you've stopped by. I am a passionate geospatial solutions architect dedicated to building impactful projects and collaborating with the geospatial open-source community. This space is where I showcase my work, experiments, and the technologies I'm currently exploring.
 
 ---
 
