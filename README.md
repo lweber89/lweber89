@@ -21,8 +21,8 @@ Beyond the keyboard, I stay curious and active through a variety of pursuits:
 
 I’ve spent time honing my craft across various domains of the tech stack:
 
-*   **Languages:** JavaScript, Python, TypeScript, and SQL.
-*   **Frameworks & Libraries:** React, Node.js, and Express.
-*   **Tools & Platforms:** Git, Docker, AWS, and PostgreSQL.
-*   **Core Competencies:** Full-stack development, API design, and agile methodologies.
+*   **Languages:** Python
+*   **Libraries:** geopandas, rasterio, leafmap, geemap, 
+*   **Tools & Platforms:** ArcGIS, QGIS, AWS, Git, VS Code
+*   **Core Competencies:** Convert business needs/requirements to bespoke geospatial solutions.
 
