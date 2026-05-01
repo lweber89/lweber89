@@ -12,10 +12,8 @@ Hi there! I'm glad you've stopped by. I am a passionate geospatial solutions arc
 
 Beyond the keyboard, I stay curious and active through a variety of pursuits:
 
-*   **Continuous Learning:** Always diving into new frameworks and staying up-to-date with tech trends.
-*   **Creative Exploration:** Whether it's digital art, photography, or DIY projects, I love the process of creation.
-*   **Outdoor Adventures:** You can often find me hiking or exploring local trails to reset and find inspiration.
-*   **Gaming:** Enjoying everything from strategy-heavy tabletop games to immersive RPGs.
+*   **Continuous Learning:** I am spending a considerable amount of time upskilling my skillset:  AWS, Python, QGIS
+*   **Outdoor Adventures:** You can often find me running my weekly miles in the local parks.
 
 ---
 
